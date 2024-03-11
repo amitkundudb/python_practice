@@ -8,3 +8,5 @@ Sliced list: [2, 3, 4, 5, 6, 7, 8, 9, 10]
 Slicing operation completed successfully.
 2024-03-11 16:10:44,584 - INFO - Sliced list: [3, 4, 5, 6, 7, 8]
 2024-03-11 16:10:44,585 - INFO - Slicing operation completed successfully.
+2024-03-11 16:22:21,344 - INFO - Sliced list: [3, 4, 5, 6, 7, 8]
+2024-03-11 16:22:21,344 - INFO - Slicing operation completed successfully.
